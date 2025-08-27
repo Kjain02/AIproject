@@ -5,7 +5,9 @@ import asyncio
 # bring in deps
 from llama_parse import LlamaParse
 from llama_index.core import SimpleDirectoryReader
-LLAMA_CLOUD_API_KEY = 'llx-kUS7qWRG1S7I3OPgiQZWc1LwsQxo3q2WWxya73WDz739a1VL'
+import os
+
+LLAMA_CLOUD_API_KEY = os.getenv("LLAMA_CLOUD_API_KEY")
 
 
 """

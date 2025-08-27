@@ -7,15 +7,16 @@ from colorlog import ColoredFormatter
 from src.config import config
 import uvloop
 import uvloop
+import os
 
 OUTPUT_DIR = "output"
-url: str = "https://vuxvzlnwphczonlmagcr.supabase.co"
-key: str = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZ1eHZ6bG53cGhjem9ubG1hZ2NyIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTcyNTk0OTk4NSwiZXhwIjoyMDQxNTI1OTg1fQ.41kfakfDnIpK9yyf2enpYzelRD4uGXAN4mIzDemsANM"
+url: str = os.getenv("SUPABASE_URL")
+key: str = os.getenv("SUPABASE_CLIENT_KEY")
 supabase: Client = create_client(url, key)
 
 
 url_extraction = "https://vvblngfsnsoraabwhbtu.supabase.co"
-key_extraction = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZ2YmxuZ2ZzbnNvcmFhYndoYnR1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mzc3MTMyNjAsImV4cCI6MjA1MzI4OTI2MH0.1T1boKLkgVJm6OJqRDZXtMw13TpZB9sZicpTgmYhvcw"
+key_extraction = os.getenv("SUPABASE_KEY")
             
 supabase_extraction: Client = create_client(url_extraction, key_extraction)
 asyncio.set_event_loop_policy(uvloop.EventLoopPolicy())

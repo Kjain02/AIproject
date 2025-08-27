@@ -7,11 +7,12 @@ from src.services.company_info import get_company_info
 from src.rag.create import instantiate_vectorstore
 from colorlog import ColoredFormatter
 from src.config import config
+import os
 
 
 OUTPUT_DIR = "output"
 url: str = "https://vuxvzlnwphczonlmagcr.supabase.co"
-key: str = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZ1eHZ6bG53cGhjem9ubG1hZ2NyIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTcyNTk0OTk4NSwiZXhwIjoyMDQxNTI1OTg1fQ.41kfakfDnIpK9yyf2enpYzelRD4uGXAN4mIzDemsANM"
+key: str = os.getenv("SUPABASE_CLIENT_KEY")
 supabase: Client = create_client(url, key)
 
 # Configure logging with color and styling

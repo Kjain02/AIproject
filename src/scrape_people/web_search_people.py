@@ -9,7 +9,7 @@ import os
 
 people_list = []
 
-BING_SUBSCRIPTION_KEY = '5ed68024458846f593bdae92062a0127'
+BING_SUBSCRIPTION_KEY = os.getenv("BING_SUBSCRIPTION_KEY")
 
 def checkParsable(url: str) -> bool:
     try:
