@@ -1,0 +1,15 @@
+**/venv/
+**/__pycache__/
+.env
+**/*.pdf
+**/*.npy
+**/*.json
+src/rag/embeddings/
+temp.ipynb
+temp.json
+test.ipynb
+**/*.json
+None/
+tests/
+.env
+.env.*

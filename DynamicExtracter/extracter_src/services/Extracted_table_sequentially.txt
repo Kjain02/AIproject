@@ -1,0 +1,171 @@
+Annexure I
+
+# BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING FORMAT
+
+**SECTION A: GENERAL DISCLOSURES**
+
+I. Details of the listed entity
+
+1. Corporate Identity Number (CIN) of the Listed Entity
+
+2. Name of the Listed Entity
+
+3. Year of incorporation
+
+4. Registered office address
+
+5. Corporate address
+
+6. E-mail
+
+7. Telephone
+
+8. Website
+
+9. Financial year for which reporting is being done
+
+10. Name of the Stock Exchange(s) where shares are listed
+
+11. Paid-up Capital
+
+12. Name and contact details (telephone, email address) of the person who may be contacted in case of any queries on the BRSR report
+
+13. Reporting boundary - Are the disclosures under this report made on a standalone basis (i.e. only for the entity) or on a consolidated basis (i.e. for the entity and all the entities which form a part of its consolidated financial statements, taken together).
+
+II. Products/services
+
+14. Details of business activities (accounting for 90% of the turnover):
+
+| S. No | Description of Main Activity | % of Turnover of the entity |
+|-------|------------------------------|-----------------------------|
+| 1     | Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):|
+
+| S. No | Product/Service | NIC Code | % of total turnover contributed |
+|-------|----------------|---------|------------------------------|
+Operations
+
+1. Number of locations where plants and/or operations/offices of the entity are situated:
+
+| Location   | Number of plants | Number of offices | Total |
+|------------|------------------|-------------------|-------|
+| National   |                  |                   |       |
+| International|                |                   |       |
+
+2. Markets served by the entity:
+
+a. Number of locations
+
+| Locations                         | Number |
+|----------------------------------|--------|
+| National (No. of States)         |        |
+| International (No. of Countries) |        |
+
+b. What is the contribution of exports as a percentage of the total turnover of the entity?
+
+c. A brief on types of customers
+
+IV. Employees
+
+3. Details as at the end of Financial Year:
+
+a. Employees and workers (including differently abled):
+
+| S. No | Particulars                  | Total (A) | Male (B) | % (B / A) | Female (C) | % (C / A) |
+|-------|------------------------------|-----------|----------|-----------|------------|-----------|
+| 1     | Permanent Employees          |           |          |           |            |           |
+| 2     | Other than Permanent         |           |          |           |            |           |
+| 3     | Total employees (1 + 2)     |           |          |           |            |           |
+
+| Workers   |                           |           |          |           |            |           |
+|-----------|---------------------------|-----------|----------|-----------|------------|-----------|
+| 4         | Permanent                 |           |          |           |            |           |
+| 5         | Other than Permanent       |           |          |           |            |           |
+| 6         | Total workers (4 + 5)     |           |          |           |            |           |Differently abled employees and workers:
+
+1. Permanent (D)
+2. Other than Permanent (E)
+3. Total differently abled employees (D + E)
+
+differently abled employees
+
+4. Permanent (F)
+5. Other than permanent (G)
+6. Total differently abled workers (F + G)
+
+Participation/Inclusion/Representation of women:
+
+Board of Directors
+Key Management Personnel
+
+Turnover rate for permanent employees and workers
+(Disclose trends for the past 3 years)
+
+| S. No | Particulars                                        | Total (A) | Male (B) | % (B / A) | Female (C) | % (C / A) |
+|-------|----------------------------------------------------|-----------|----------|-----------|------------|-----------|
+| 1     | Permanent Employees                               |           |          |           |            |           |
+| 2     | Other than Permanent                              |           |          |           |            |           |
+| 3     | Total differently abled employees                  |           |          |           |            |           |
+| 4     | Permanent Workers                                 |           |          |           |            |           |
+| 5     | Other than Permanent Workers                       |           |          |           |            |           |
+| 6     | Total differently abled workers                    |           |          |           |            |           |
+
+| Column 1                          | Total (A)      | No and percentage of Females | Column 4 |
+|-----------------------------------|-----------------|-----------------------------|-----------|
+|                                   |                 |                             |           |
+| Board of Directors                 |                 |                             |           |
+| Key Management Personnel           |                 |                             |           |
+
+| Column 1                             | FY _______          | Turnover rate in current FY  | Column 3       | Column 4       | FY _______      | Turnover rate in previous FY | Column 6         | Column 7         | FY _______      | Turnover rate in the year prior to the previous FY | Column 9       | Column 10       |
+|-------------------------------------|---------------------|----------------------------|-----------------|-----------------|-----------------|------------------------|-------------------|-------------------|-----------------|-----------------------------------|-----------------|-----------------|Holding, Subsidiary and Associate Companies (including joint ventures)
+
+1. (a) Names of holding/subsidiary/associate companies/joint ventures:
+
+| S. No | Name of the Entity | % of shares held | Does the entity indicated at Column A, participate in the Business Responsibility initiatives of the listed entity? (Yes/No) |
+|-------|--------------------|------------------|--------------------------------------------------|
+| 1     | Company A          | 60%              | Yes                                              |
+| 2     | Company B          | 40%              | No                                               |
+| 3     | Company C          | 75%              | Yes                                              |
+
+VI. CSR Details
+
+2. (i) Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No)
+(ii) Turnover (in Rs.)
+(iii) Net worth (in Rs.)
+
+VII. Transparency and Disclosures Compliance
+
+23. Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business Conduct:
+
+| S. No. | Name of the holding/subsidiary/associate companies/joint ventures (A) | Indicate whether holding/Subsidiary/Associate/Joint Venture | % of shares held by listed entity | Does the entity indicated at Column A, participate in the Business Responsibility initiatives of the listed entity? (Yes/No) |
+|---------|----------------------------------------------------------------------|------------------------------------------------|--------------------------|---------------------------------------------------------------------|
+| 1       | Company D                                                            | Yes                                            | 55%                       | Yes                                                                 |
+| 2       | Company E                                                            | No                                             | 30%                       | No                                                                  |
+| 3       | Company F                                                            | Yes                                            | 65%                       | Yes                                                                 |
+
+Stakeholder group from whom complaint is received | Grievance redressal mechanism in place (Yes/No) (If Yes, then provide web-link for grievance redress policy) | FY_____ Current Financial Year | Col 4 | Col 5 | FY_____ Previous Financial Year | Col 7 | Col 8 |
+|--------------------------------------------------|-----------------------------------------------------------|--------------------------|-------|-------|--------------------------|-------|-------|
+| Number of complaints filed during the year | Number of complaints pending resolution at close of the year | Remarks | Number of complaints filed during the year | Number of complaints pending resolution at close of the year | Remarks |
+
+| Communities | | | | | | | |
+| Investors (other than shareholders) | | | | | | | |Stakeholder group from whom complaint is received
+
+| Grievance Redressal Mechanism in Place (Yes/No) (If Yes, then provide web-link for grievance redress policy) |
+|---------------------------|
+| FY ____ Current Financial Year |  |  | FY ____ Previous Financial Year |  |  |
+|---------------------------|
+| Number of complaints filed during the year | Number of complaints pending resolution at close of the year | Remarks |
+|---------------------------|
+| Number of complaints filed during the year | Number of complaints pending resolution at close of the year | Remarks |
+|---------------------------|
+| Shareholders |  |  |  |  |  |  |
+| Employees and workers |  |  |  |  |  |  |
+| Customers |  |  |  |  |  |  |
+| Value Chain Partners |  |  |  |  |  |  |
+| Other (please specify) |  |  |  |  |  |  |
+
+Overview of the entity’s material responsible business conduct issues. 
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or mitigate the risk along with its financial implications, as per the following format:
+
+| S. No. | Material issue identified | Indicate whether risk or opportunity (R/O) | Rationale for identifying the risk/opportunity | In case of risk, approach to adapt or mitigate | Financial implications of the risk or opportunity (Indicate positive or negative implications) |
+|---------|--------------------------|-----------------------------------------|----------------------------------------------|---------------------------------|------------------------------------------------|
+|  |  |  |  |  |  |

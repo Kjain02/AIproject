@@ -1,0 +1,12 @@
+.git*
+**/*.pyc
+venv/
+**/venv/
+**/__pycache__/
+**/*.pdf
+**/*.npy
+src/rag/embeddings/
+*.pdf
+*.json
+*.npy
+

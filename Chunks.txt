@@ -1,0 +1,1032 @@
+Page No: 152
+    Integrated Annual Report 2023-24152 Business Responsibility & Sustainability Report
+7. Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format75:
+ The Scope 1 emissions ar
+e from direct GHG sources like fuel used in company owned vehicles, diesel generators and cafeteria, 
+fugitive emissions of refrigerants, and fuel used for space heating. Scope 1 accounts for about 23% of the Scope 1 + Scope 2 
+carbon footprint in FY 2023-24. The balance 77% are from indirect emissions, referred to as Scope 2 emissions, associated with purchased electricity. The breakup is provided as required in the table below.
+Parameter Unit FY 2023-24 FY 2022-23#
+Total Scope 1 emissions (Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)Metric tonnes of CO2 equivalent21,949.0 20,972.0
+- CO2 tCO2e 6,600.0 4,780.0
+- CH4 tCO2e 5.4 2.7
+- N2O tCO2e 34.5 39.8
+- HFC tCO2e 15,309.0 16,150.0
+Total Scope 2 emissions (Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)Metric tonnes of CO2 equivalent73,722.0 1,17,265.0
+Total Scope 1 and Scope 2 emission intensity per rupee of turnover (Total Scope 1 and Scope 2 GHG emissions (tCO2e) / Revenue from operations)tCO2e/rupee turnover0.00000004 0.00000006
+Total Scope 1 and Scope 2 emission intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP)  (Total Scope 1 and Scope 2 GHG emissions (tCO2e) / Revenue from operations adjusted for PPP)tCO2e/rupee turnover adjusted for PPP0.00000091 0.00000140
+Total Scope 1 and Scope 2 emission intensity in terms of physical outputtCO2e/FTE 0.15 0.20
+ #Data excludes accounting for <2% headcount, where TCS does not have operational control.
+ Note: Indic
+ate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+ Yes.  Independen
+t assurance has been carried out by KPMG.
+8. Does the entity ha
+ve any project related to reducing Green House Gas emission? If Yes, then provide details76.
+ Yes. T
+CS has taken up the target to reduce its absolute Scope 1 and Scope 2 carbon footprint by 70% by 2025 and become net 
+zero by 2030. To achieve these targets, the green-house gas management approach has four key levers – green infrastructure, green IT, IT-enabled operational efficiencies, and renewable energy.
+ Commitment t
+o Science Based Targets initiative (SBTi)
+ In June 2022, TCS has r
+esponded to SBTi’s urgent call for corporate climate action by committing to align with 1.5°C and net-zero 
+through the Business Ambition for 1.5°C campaign. This is published on SBTi website and can be viewed at Companies taking action - https://sciencebasedtargets.org/companies-taking-action. TCS is working on the next steps to developing company targets for validation by SBTi.
+ Green In
+frastructure and IT enabled operational efficiency:
+ All new c
+ampuses owned by TCS are designed according to green building standards for energy and resource efficiency. They have 
+roof-top solar photovoltaic installations to reduce the carbon footprint. The total Built Up Area occupied by TCS has increased YoY from 36.6 Mn to 38.23 million sq.ft. in FY 2023-24. With the increasing footprint, TCS is committed to expand consciously its green footprint, to align with its sustainability goals. In FY 2023-24, TCS got Platinum IGBC certification for 2 additional existing buildings namely Sholinganallur, Chennai and Deccan Park, Hyderabad. The % green certified area over built up area was 64.6% in  
+FY
+ 2022-23 and has incr
+eased to 67.3% this year. This accounts for 39 TCS offices and campuses with over 25.74 million sq.ft of 
+area under certified green building by Indian Green Building Council.
+75  GRI 305-1; GRI 305-2, GRI 305-4. Scope 1 emissions have been calculated using the emissions factors published by the DEFRA conversion factors 2023. For Scope 2 emissions – for India, the source is the emission factor is the CO2 Baseline Database for the Indian Power Sector, User Guide, Version 19.0, December 2023, published by the Central Electricity Authority of India. This emission factor [(0.716 tCO2/ MWh) by CEA includes the captive power injection into the grid and is adjusted for RE transactions through open access (in power exchanges)]. As TCS, India procures electricity from the India grid, which is a mix of conventional and renewable energy, the emission factor of 0.716 tCO2/ MWh is considered more appropriate. For Australia, Canada, North America, and UK emission factors specific to the region published by local authorities are used. For other countries IEA v6 emission factors (01/2024) and GHG protocol v19 (04/2023) – eGRID 2021 have been used as appropriate to the source of electricity procured.
+76 GRI 305-5 
+
+Page No: 158
+    Integrated Annual Report 2023-24158 Business Responsibility & Sustainability Report
+2. Please pro vide details of total Scope 3 emissions & its intensity, in the following format83:
+Parameter Unit FY 2023-24 FY 2022-23*
+Total Scope 3 emissions (Break-up of the GHG into CO2, CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available)Metric tonnes of 
+CO2 Equivalent4,98,509 3,66,606
+Category 1 – Purchased goods & services tCO2e 14,457 2,515
+Category 2 – Capital goods tCO2e 20,299 18,549
+Category 3 – Fuel and energy related activities (not included in Scope 1 or 2) tCO2e 35,495 32,094
+Category 4 – Upstream transportation and distribution tCO2e 2,620 5,107
+Category 5 – Waste generated in operations tCO2e 1,179 1,070
+Category 6 – Business travel tCO2e 1,17,310 89,907
+Category 7 – Employee commuting tCO2e 3,07,149 2,17,364
+Total Scope 3 emissions per rupee of turnover tCO2e/rupee turnover0.00000021 0.00000016
+Total Scope 3 emission intensity (Optional) – the relevant metric may be 
+selected by the entity(tCO2e/Per FTE) 0.79 0.60
+ *Dat
+a excludes accounting for <2% headcount, where TCS does not have operational control.
+ Note: Indic
+ate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+ Yes. This da
+ta has been subject to independent assurance by KPMG
+83  GRI 305-3, GRI 305-4; There are some inclusions and modifications in estimating scope 3 carbon emissions during FY 2024 when compared to FY 2023. Scope 3 emissions:  
+Category 1 & 2: Emission factors (spend based) for purchased and capital goods are taken from the latest available US EPA (Supply Chain GHG 
+Emission Factors for US Commodities and Industries v1.1.1) information for computer equipment, electrical equipment, office equipment, vehicles, and furniture items. The US EPA emission factors for categories 1 & 2 were adopted in FY23 and used in FY24 as well. There is a significant increase in Category 1 due to a new contract. Increase in category 2 is due to Return to Office (RTO)  Category 3: The well to tank (WTT) emissions from the fuel used in stationary and mobile combustion such as diesel in DG sets and owned vehicles, LPG or PNG in cafeteria, natural gas for space heating/ cooling, fuel used in hired vehicles (cabs/ buses) are included in this category since  FY 2023 and the same has been continued in FY2024 as well. There is an increase in emissions due to use of IEA emission factors for WTT and T&D in FY24. In FY23 the Company had used the DEFRA emission factors.  Category 4: Until FY 2022, TCS had included only emissions from transportation of IT assets considering its relative significance compared to other supplies. While the Company continues to capture emissions from transportation of IT assets based on spend based emission factors, emissions related to transportation of non -IT supplies were included. The non – IT supplies covered to estimate category 4 emissions include cafeteria/ canteen supplies, water supplies through tankers, housekeeping material, and other stationary supplies. Emission factors are taken from DEFRA 2023 for the transport emissions based on vehicle type and weight. There is a significant decrease in this category as the actual data were taken from the locations in FY24 compared to FY23 which was based on pilot study at few locations. The Company has also moved the waste disposal related transport emissions from Category 4 to 5 in FY24. .  
+Category 5: No change in approach in FY 2024. The emissions are based on disposal mechanisms (e.g., recycling, reuse, landfill) for different categories of waste (plastic, metal, e-waste, batteries, food waste, garden waste etc.,) and have been computed based on emission factors from DEFRA 2023. Slight increase in emission due to increased RTO and also due to inclusion of waste disposal related transportation under this category.  
+Category 6: In FY 2022, business travel included emissions from air and rail. In FY 2023 and FY 2024, business travel emissions also include hotel stays at various geographies during business travel. Relevant emission factors are taken from DEFRA 2023.  There is an increase in emissions due to increase in business travel and accommodation due to resumption and RTO. Category 7: In FY 2024, the employee commute related carbon emission includes those from TCS hired vehicles for transport of employees, personal employee commute, public employee commute & work from home (WFH) emissions. There is an increase in employee commute due to RTO in FY 2023-24 compared to previous year. 
+
+Page No: 327
+    GRI Standard Disclosure and Description Section * Page No.
+GRI 304: Biodiversity 2016
+  304-1 Oper
+ational sites owned, leased, managed in, or adjacent to, protected 
+areas and areas of high biodiversity value outside protected areas• BR
+SR 156
+ 304-2 Signifi
+cant impacts of activities, products and services on biodiversity • BR
+SR 159
+ 304-3 Habit
+ats protected or restored • BR
+SR 159
+GRI 305: Emissions 2016
+ 305-1 Dir
+ect (Scope 1) GHG emissions • BR
+SR 152
+ 305-2 Ener
+gy indirect (Scope 2) GHG emissions • BR
+SR 152
+ 305-3 Other 
+indirect (Scope 3) GHG emissions • BR
+SR 158
+ 305-4 GHG e
+missions intensity • BR
+SR 152, 158
+ 305-5 R
+eduction of GHG emissions • BR
+SR 152
+GRI 306: Waste 2020
+ 306-2 Manag
+ement of significant waste-related impacts • BR
+SR 135, 136, 
+155
+ 306-3 W
+aste generated • BR
+SR 154
+ 306-4 W
+aste diverted from disposal • BR
+SR 154
+ 306-5 W
+aste directed to disposal • BR
+SR 154
+GRI 308: Supplier Environmental Assessment 2016
+ 308-1 Ne
+w suppliers that were screened using environmental criteria • BR
+SR 135, 160
+ 308-2 Neg
+ative environmental impacts in the supply chain and actions taken • BR
+SR 160
+GRI 400: Social Dimension
+GRI 401: Employment 2016
+ 401-1 Ne
+w employee hires and employee turnover • Human Capital 
+• BR
+SR18, 19
+129
+  401-2 Bene
+fits provided to full-time employees that are not provided to temporary 
+or part-time employees• BR
+SR 137
+ 401-3 P
+arental leave • BR
+SR 138
+GRI 402: Labor/Management Relations 2016
+ 402-1 Minim
+um notice periods regarding operational changes • MD&A 74
+GRI 403: Occupational Health and Sa
+fety 2018
+ 403-1 Occupa
+tional health and safety management system • BR
+SR 139
+ 403-2 Haz
+ard identification, risk assessment, and incident investigation • BR
+SR 140, 141
+ 403-3 Occupa
+tional health services • BR
+SR 139
+ 403-5 W
+orker training on occupational health and safety • BR
+SR 139
+ 403-6 P
+romotion of worker health • BR
+SR 140
+ 403-9 W
+ork-related injuries • BR
+SR 141, 142
+ 403-10 W
+ork-related ill health • BR
+SR 141, 142
+GRI 404: Training and Education 2016
+ 404-1 A
+verage hours of training per year per employee • Human Capital
+• BR
+SR19, 139
+ 404-3 De
+tails of performance and career development reviews of employees • BR
+SR 139
+GRI 405: Diversity and Equal Opportunity 2016
+ 405-1 Div
+ersity of governance bodies and employees • Human Capital 
+• BR
+SR18, 19129
+ 405-2 Ra
+tio of basic salary and remuneration of women to men • BR
+SR 146, 147
+GRI 406: Non-discrimination 2016
+ 406-1 Incide
+nts of discrimination and corrective actions taken • BR
+SR 148
+GRI 413: Local Communities 2016
+  413-1 Oper
+ations with local community engagement, impact assessments, and 
+development programs• Social Capital
+• BR
+SR23156, 162
+GRI 414: Supplier Social Assessment 2016
+ 414-2 Neg
+ative social impacts in the supply chain and actions taken • BR
+SR 143
+Integrated Annual Report 2023-24327 Sustainability Disclosures 
+
+Page No: 324
+    Integrated Annual Report 2023-24324 Sustainability Disclosures
+All climate-related risks are embedded into entity’s overall risk management process. TCS has an internal application where identified risks 
+are baselined at the beginning of the year, tracked quarterly and updated with relevant progress. Each risk has an expiry date. Each risk owner responds with the progress and at the end of the financial year ensures closing of the risk.
+Section 4: Metrics and targets
+Climate related metrics
+a.
+ Climat
+e-related metrics – Scope 1,2 and 3 greenhouse gas (GHG) emissions in metric tons of CO2 equivalent are disclosed on 
+page number 152, 158 of the BRSR report. The emissions are in accordance with the GHG Protocol Corporate Accounting and 
+Reporting Standards. TCS has a robust environmental sustainability tool where all relevant environmental data are collected monthly, validated, and internally assured periodically across geographies. All locations within the operational control of TCS are included in the boundary of environmental data reporting (consolidated accounting group as per IFRS-S2). GHG emission factors are used from the latest version of IEA, DEFRA, USEPA, GHG Protocol All Sector Tools and regional sources for specific geographies (e.g. CEA for India) to estimate the GHG emissions. The approach, inputs and assumptions are detailed on Page number 152, 158 as part of the BRSR section. The carbon emission data is independently assured by external assurance providers at the end of the financial year. In FY
+ 2024, sc
+ope 1 and 2 emissions have undergone reasonable assurance and scope 3 has been subject to limited assurance by 
+KPMG. TCS reports its scope 1, 2 and 3 emissions in the Integrated Annual Report and in CDP (Climate change) disclosures. 
+b. Climat
+e-related transition risks—Business activities vulnerable to climate-related transition risks; - Refer section Sustainability Risks - 
+Climate change and Environmental aspects (R & O), page number 86.
+c.  Clima
+te-related physical risks—Business activities vulnerable to climate-related physical risks; - Refer section Sustainability Risks - 
+Climate change and Environmental aspects (R & O), page number 86.
+d. Climat
+e-related opportunities —Business activities aligned with climate-related opportunities; - Refer section Sustainability Risks - 
+Climate change and Environmental aspects (R & O), page number 86.
+e. Capital deplo
+yment—the amount of capital expenditure, financing or investment deployed towards climate-related risks and 
+opportunities; - Refer BRSR section in Principle 2 (Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental and social impacts of product and processes to total R&D and capex investments made by the entity, respectively, Page number 135)
+f.
+ Int
+ernal carbon prices:
+ The org
+anization has calculated an internal carbon price based on the total investments envisaged for energy efficiency programs, 
+transition to renewable energy and other investments towards emission reductions. Currently TCS does not apply this carbon price to determine the feasibility of projects or to apply a carbon tax to generate funding for the projects. All these projects and initiatives are driven through internal accruals since they align to overall company and Tata Group philosophy. Currently, TCS is not focusing on offsetting to drive reductions and the company may take up the carbon cost/tax mechanism in the future to generate budgets for purchase of offset instruments. In the coming years, the company may plan to consider applying a carbon tax to business travel (and employee commuting-company provided transport) to bring out the “carbon” cost. This will help reduce Category 6 and 7 of Scope 3 emissions by either reducing travel or switching to carbon efficient means of travel and transportation (like EVs). The price for each metric tonne of greenhouse gas emissions the entity uses to assess the costs of its greenhouse gas emissions is ₹ 2,365.
+ Business decision-making processes this in
+ternal carbon price is applied to are:
+ • Capital e
+xpenditure 
+ • Opera
+tions procurement 
+ • Risk managemen
+t 
+ • Opportunity managemen
+t
+ • Value chain eng
+agement
+Remuneration:  Refer page number 103 for information on remuneration of the Board members. 
+Climate-related targets
+TCS’ climate related targets are mentioned along with its metrics, timeline, and performance in page 24, 25 of the Natural Capital section. 
+In May 2021, TCS set carbon target of 70% reduction of absolute Scope 1 + 2 emissions by 2025 (vs base year 2016) and Net Zero by 2030. This target setting is aimed to mitigate the carbon emissions from its activities and enables adapting to climate change risks. The target applies to the entity in entirety across geographies. TCS has already achieved 71% reduction in scope 1 and 2 emissions in FY 2023 (Vs 2016) and 80% reduction in FY 2024 (Vs 2016) thereby overachieving the targets much ahead of its timelines. 
+The performance against the targets is disclosed in this Integrated Annual Report in the Natural Capital Section on Page numbers 24 and 25. TCS has made its commitment to SBTi targets. In June 2022, TCS has responded to SBTi’s urgent call for corporate climate action by 
+committing to align with 1.5°C and net-zero through the Business Ambition for 1.5°C campaign. This is published on SBTi website and can be viewed at Companies taking action - Science Based Targets. TCS is working towards submitting the targets for validation by SBTi. 
+
+Page No: 333
+    Integrated Annual Report 2023-24333 Sustainability Disclosures
+ 
+ 
+ 
+6 | Page  
+ Appendix – 1 
+Select BRSR and GRI attributes  
+GRI Indicator  BRSR Linkage  Type of 
+Assurance  
+302-1-(a), (b), (c) -i, (e)  
+Energy consumption within the 
+organization  P6 E1 - Details of total energy consumption (in Joules 
+or multiples)  Limited  
+302-3 (a) Energy intensity  P6 E1 - Details of total energy intensity  Limited  
+303-3-(a)-I, 303 -3-(a)-ii, 303 -3-
+(a)-iii, 303-3-(a)-iv P6 E3 - Provide details of water withdrawal by source  Limited  
+303-1-(a), 303 -2-(a), 303 -4  P6 E4 - Provide details of water discharged  Limited  
+303-5 (a)  P6 E3 - Provide details of water consumption  Limited  
+305-1 (a), (b), (c), (d), €Direct 
+(Scope 1) GHG emissions  P6 E7 - Provide details of greenhouse gas emissions 
+(Scope 1)  Limited  
+305-2 (a), (b), (c), Energy indirect 
+(Scope 2) GHG emissions  P6 E7 - Provide details of greenhouse gas emissions 
+(Scope 2)  Limited  
+305-4 (a), (b), GHG emissions 
+intensity  P6 E7 - Provide details of greenhouse gas emissions 
+(Scope 1 and Scope 2) intensity  Limited  
+306-3- (a) Waste generated  P6 E9 - Provide details related to waste generated by 
+category of waste  Limited  
+306-4-(a), (b -i), (b -ii), (b -iii), (c -i), 
+(c-ii), (c -iii) Waste diverted from 
+disposal  P6 E9 - Provide details related to waste recovered 
+through recycling, re -using or other recovery 
+operations  Limited  
+306-5-(a), (b -i), (b -ii), (b -iii), (c -i), 
+(c-ii), (c -iii), (c -iv) Waste directed 
+to disposal  P6 E9 - Provide details related to waste disposed by 
+nature of disposal method  Limited  
+403-9- (a-i-v), 403-9- (b-i-v), 
+Work- related injuries  P3 E11 -Details of safety related incidents including 
+lost time injury frequency rate, recordable work-
+related injuries, n o. of fatalities  Limited  
+303-1 Interactions with water as a 
+shared resource  No direct Linkage Limited  
+303-2 Management of water 
+discharge -related impacts  No direct Linkage Limited  
+ 303-3-b- (i-iv), 303-4-a- (i-ii)  
+Water withdrawal   P6 L 1- Water withdrawal, consumption, and 
+discharge in areas of water stress (in kiloliters)  Limited  
+303-1-(a), 303 -2-(a), 303 -4  
+303-3-b- (i-iv), 303-4-a- (i-iv)  
+Water discharge   P6 L 1- Water withdrawal, consumption, and 
+discharge in areas of water stress (in kiloliters)  Limited  
+303-5 (a)  
+303-3-b- (i-iv), 303-4-a- (i-ii)  
+Consumption  P6 L 1- Water withdrawal, consumption, and 
+discharge in areas of water stress (in kiloliters)  Limited   
+
+Page No: 334
+    Integrated Annual Report 2023-24334 Sustainability Disclosures
+ 
+ 
+ 
+7 | Page  
+ 304, 413 -1-(a-ii), 303 -1- (a), 303 -
+1- (c)  
+Operational sites owned, leased, 
+managed in, or adjacent to, 
+protected areas and areas of high 
+biodiversity value outside 
+protected areas   P6 E11- If the entity has operations/offices in/around 
+ecologically sensitive areas where environmental 
+approvals /c learances are required, please specify the 
+location and type of operations and if the conditions 
+of environmental approval / clearance are being 
+complied with?  Limited  
+304-2, 304 -2-a-(i-vi), 304 -2-b-(i-
+iv), 304-3- (a)  
+Significant impacts of activities, 
+products and services on 
+biodiversity  P6 L 3- With respect to the ecologically sensitive 
+areas, provide details of significant direct & indirect 
+impact of the entity on bi odiversity in such areas 
+along-with prevention and remediation activities. Limited  
+305-3, 305 -3- (a, b)  
+Other indirect (Scope 3) GHG 
+emissions  P6 L2 – Provide details of total Scope 3 emissions  Limited  
+305-4- (a), (b, (c), (d)   GHG emissions intensity  P6 L2  – Provide details of total Scope 3 emissions 
+intensity  Limited  
+305-5- (a), (b), (c), (d)  
+Reduction of GHG emission  P6 E 8 – Projects related to reduction of Green House 
+Gas emissions  Limited  
+306-2 Management of significant 
+waste- related impacts  No direct Linkage Limited  
+ 
+ 
+GRI Indicator  BRSR Linkage  Type of 
+Assurance  
+308-1, 308- 1 (a) 
+New suppliers that were screened 
+using environmental criteria  P6 L7 - Percentage of value chain partners (by value 
+of business done with such partners) that were 
+assessed for environmental impacts  
+ Limited  
+ 
+401-1 (b)  
+New employee hires and employee 
+turnover  Section A 22 - Turnover rate for permanent employees 
+and workers Limited  
+401-2, 201 -3-b-(i-iii), 201 -3-c, 
+201-3-d, 201-3- e  
+Benefits provided to full- time 
+employees that are not provided to 
+temporary or part -time employees  P3 E 1- Details of retirement benefits, for Current 
+Financial Year  Limited  
+401-3 Parental leave  P3 E5 -Return to work and Retention rates of 
+permanent employees that took parental leave  Limited  
+403-1 (a), (b)  P3 E10 -Health and safety management system   Limited    
+ 
+ 
+8 | Page  
+ Occupational health and safety 
+management system   
+403-2 (a), (b), (c), 403 -4 (a), 403 -6 
+(a) 
+Hazard identification, risk 
+assessment, and incident 
+investigation  
+403-5 (a), 404 -1 (a-i), 404 -2 (a) 
+Worker training on occupational 
+health and safety  P3 E8 -Details of training given to employees and 
+workers Limited  
+403-6, 3-3-(d-i-iii), 403 -2-(a-i-ii), 
+403-9- (c-iii), 403-9-(d), 403-10- (c-
+iii)  
+Promotion of worker health  P3 E12- Describe the measures taken by the entity to 
+ensure a safe and healthy workplace  Limited  
+404-1, 403 -5-(a), 404 -1-(a-i), 404 -
+2-(a), 2 -24-(a-iv), 205 -2-(e), 403-
+5-(a), 404-1- (a-i-ii), 410-1- a  
+Average hours of training per year 
+per employee  P3 E8 -Details of training given to employees and 
+workers P5 E1 -
+Employees and workers who have been 
+provide d training on human rights issues and 
+policy(ies) of the entity  Limited  
+404-3 (a)  
+Details of performance and career 
+development reviews of 
+employees  P3 E9 -Details of performance and career development 
+reviews of employees Limited  
+405-1 Diversity of governance 
+bodies and employees  Section A 21 - Participation/Inclusion/Representation 
+of women  Limited  
+405-2, 2-19-(a-i-v), 2-21-(a)  
+Ratio of basic salary and 
+remuneration of women to men  P5 E3 -Details of remuneration/salary/wages  Limited  
+2-25-(e), 406-1- (a)  
+Incidents of discrimination and 
+corrective actions taken  P5 E 8- Number of Complaints made by employees on 
+sexual harassment, discrimination at the workplace, 
+child and forced labour, wages and other human rights 
+related issues  Limited  
+304-1- (a-i-v), 413-1- (a-i-iii), 203-
+1, 3-3, 2-25-(b), 413-1- (a-viii),  
+2-12-(b), 2-13- (a, b), 2-29- (a), 2 -
+29-(a-i-iii), 3 -3-(d-i-ii), 413 -1-(a-
+iv), 203-1    
+Operations with local community 
+engagement, impact assessments, 
+and development programs P6 E1 1- If the entity has operations/offices in/around 
+ecologically sensitive areas where environmental 
+approvals /clearances are required, please specify the 
+location and type of operations and if the conditions 
+of environmental approval / clearance are being 
+comp lied with?  
+P8 E1 - Details of Social Impact Assessments (SIA) of 
+projects undertaken by the entity based on applicable laws, in the current financial year  
+P8 E3 -
+Describe the mechanisms to receive and 
+redress grievances of the community  
+P8 L1 -Provide details  of actions taken to mitigate any 
+negative social impacts identified in the Social Impact Assessments  
+P4 L1 -Provide the processes for consultation between Limited   
+
+Page No: 151
+    Integrated Annual Report 2023-24151 Business Responsibility & Sustainability Report
+ Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the e
+xternal agency.
+ Yes. Independen
+t assurance has been carried out by KPMG.
+4. Pro
+vide the following details related to water discharged#:
+Parameter FY 2023-24 FY 2022-23
+Water discharge by destination and level of treatment [in kilolitres (KL)]
+(i) To Surf
+ace Water
+- No tr
+eatment - -
+- With tr
+eatment – please specify level of treatment - -
+(ii) To G
+roundwater
+- No tr
+eatment - -
+- With tr
+eatment – Please specify level of treatment - -
+(iii) To Sea
+water
+- No tr
+eatment - -
+- With tr
+eatment – Please specify level of treatment - -
+(iv) Sent t
+o third parties
+- No tr
+eatment 2,88,621 1,38,727
+- With tr
+eatment – Please specify level of treatment 
+Note - Excess water discharged from TCS owned campuses and Water sent from 
+TCS locations to builder’s STP for further treatment.1,90,615 67,180
+(v) Other
+s
+- No tr
+eatment - -
+- With tr
+eatment – Please specify level of treatment - -
+Total water discharged (KL) 4,79,236 2,05,907 
+ Note: Indic
+ate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+ Yes. Independen
+t assurance has been carried out by KPMG.
+5. Has the entity implemen
+ted a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation74.
+ Yes, T
+CS has achieved zero liquid discharge across most of its owned campuses, except those where there are operational 
+constraints. TCS optimizes water consumption through conservation, sewage treatment and reuse, and rainwater harvesting. All
+ ne
+wer campuses have been designed for treatment and recycling of sewage and rainwater harvesting.
+6. Please pro
+vide details of air emissions (other than GHG emissions) by the entity:
+Parameter Please specify unit FY 2023-24 FY 2022-23
+NOx NA - -
+SOx NA - -
+Particulate matter (PM) NA - -
+Persistent organic pollutants (POP) NA - -
+Volatile organic compounds (VOC) NA - -
+Hazardous air pollutants (HAP) NA - -
+Others – please specify NA - -
+ There ar
+e no continuous sources of air emissions in our operations. The DG sets are operated only during power outages and 
+hence the air emissions of pollutants (other than GHGs) are not material.
+ Note: Indic
+ate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+ The DG st
+ack emissions are sampled and analyzed by government approved laboratories and the reports are reviewed by the 
+internal team to ensure compliance to the CTO conditions. These stack emission reports are submitted to government authorities (State Pollution Control Boards) as per consent conditions. These reports are also verified during internal and external audits to verify compliance.
+# GRI 303-1, GRI 303-2, GRI 303-4 
+74 GRI 303-1, GRI 303-2 
+
+Page No: 326
+    GRI Standard Disclosure and Description Section * Page No.
+ 2-25 Pr
+ocesses to remediate negative impacts • BR
+SR 130, 138, 
+142, 147, 148, 162, 164
+ 2-26 Mechanisms f
+or seeking advice and raising concerns • BR
+SR 130, 138, 142, 147, 148, 162, 164
+ 2-27 Compliance with la
+ws and regulations • BR
+SR 133, 156
+ 2-28 Membership associa
+tions • BR
+SR 160
+5. Stak
+eholder engagement
+ 2-29 Approach t
+o stakeholder engagement • BR
+SR 143, 144
+ 2-30 Collective bar
+gaining agreements • BR
+SR 138
+GRI 3: Material Topics 2021
+ 3-1 Pr
+ocess to determine material topics • 
+ Stak
+eholder Engagement 
+and Identification of Material Topics315
+ 3-2 List of ma
+terial topics • BR
+SR
+• 
+ TCS E
+SG Principles, Material 
+Topics and Initiatives130316, 317
+ 3-3 Managemen
+t of material topics • MD&A
+• BR
+SR
+• 
+ TCS E
+SG Principles, Material 
+Topics and Initiatives79130, 131, 141, 142, 155 316, 317
+GRI 200: Economic Performance
+GRI 201: Economic Performance 2016
+ 201-1 Dir
+ect economic value generated and distributed • Financial Cap
+ital 16, 17
+  201-2 Financ
+ial implications and other risks and opportunities due to climate 
+change• MD&A
+• BR
+SR86
+130
+ 201-3 De
+fined benefit plan obligations and other retirement plans • BR
+SR 137
+GRI 202: Market Presence
+  202-1 Ra
+tios of standard entry level wage by gender compared to local minimum 
+wage• BR
+SR 147
+GRI 204: Procurement Practices 2016
+ 204-1 P
+roportion of spending on local suppliers • BR
+SR 162
+GRI 205: Anti-corruption 2016
+ 205-2 Comm
+unication and training about anti-corruption policies and procedures • BR
+SR 133
+ 205-3 Con
+firmed incidents of corruption and actions taken • BR
+SR 133
+GRI 207: Tax 2019
+ 207-1 Appr
+oach to tax • CG 95
+ 207-2 T
+ax governance, control, and risk management • CG 95
+ 207-3 St
+akeholder engagement and management of concerns related to tax • CG 95
+GRI 300: En
+vironmental Performance
+GRI 302: Energy 2016
+ 302-1 Ener
+gy consumption within the organization • BR
+SR 149, 150
+ 302-3 Ener
+gy intensity • BR
+SR 149, 150
+GRI 303: Water and Effluents 2018
+ 303-1 In
+teractions with water as a shared resource • BR
+SR 151, 156
+ 303-2 Manag
+ement of water discharge-related impacts • BR
+SR 151
+ 303-3 W
+ater withdrawal • BR
+SR 150, 156
+ 303-4 W
+ater discharge • BR
+SR 156
+ 303-5 W
+ater consumption • BR
+SR 150
+Integrated Annual Report 2023-24326 Sustainability Disclosures 
+
+Page No: 318
+    Integrated Annual Report 2023-24318 Sustainability Disclosures
+TCS Climate Related Disclosures
+In FY 2023, TCS’ climate related disclosures were aligned to the Taskforce for Climate-related Financial Disclosures (TCFD). Subsequently, 
+TCFD fulfilled its remit and was disbanded in October 2023. 
+The International Sustainability Standards Board (ISSB) released IFRS S2, Climate-related Disclosures, in January 2024, which is aligned 
+with the recommendations of TCFD. This year, TCS has disclosed information related to climate-related risk and opportunities aligned with IFRS S2. IFRS S2 applies to disclosure of (1) climate related risks (physical and transitional), to which the entity is exposed and (2) climate related opportunities available to the entity. 
+The disclosure requirements in IFRS S2 are structured around the core content related to the following sections: Section 1: Governance
+Section 2: StrategySection 3: Risk ManagementSection 4: Metrics and TargetsEach of the above topics are addressed below.
+Section 1: Governance
+TCS has a Board level Stakeholder Relationship Committee (SRC) that oversees different aspects of climate-related risks and opportunities. 
+Stakeholder Relationship Committee (SRC)•
+ The SRC is chair
+ed by an independent director and comprises of 3 members including the CEO. It reviews the climate change 
+strategy, approach, and performance of the organization with respect to sustainability and climate change. 
+• The SRC f
+ormally meets twice every year to review policies and sustainability performance, including climate change and carbon 
+performance. The board oversight helps drive the program effectively with greater accountability. 
+• The CEO
+, as a part of the SRC, is directly responsible for the efficient operations of the facility and hence is better able to review 
+performance and drive improvement. The updates are provided by the Chief Human Resources Officer (CHRO) and is supported by 
+the Head - Environmental Sustainability, Health and Safety (ESHS) who oversees the environment and climate change implementation at the organisation. 
+•
+ TCS
+’ carbon reduction goal to reduce its absolute greenhouse gas emissions across Scope 1 and Scope 2 by 70% by 2025 (over 2016 
+base year), and to achieve net zero emissions by 2030, was reviewed and approved by the committee.
+• Sta
+tement by Senior management: Refer page number 132 in BRSR for N G Subramaniam, COO & Executive Director’s statement. 
+• During the half yearly mee
+tings, the SRC monitors the progress towards the carbon targets and the carbon reduction initiatives that 
+have been implemented and planned.
+Competency: 
+TCS has a competent team working on Environmental Sustainability. TCS’ Head - Environmental Sustainability, Health, and Safety (ESHS) is 
+a Doctorate in Environmental Science and Engineering and has over 30 years of post-doctoral experience in environmental sustainability and climate change.  The ESHS team has recruited professionals who have the requisite qualification and experience in climate change and environmental sustainability. The team has undergone training in advanced topics and regularly participates in external training programs and sessions on the emerging frameworks and regulatory requirements around climate change.
+TCS is also a member of the Confederation of Indian Industries (CII) and National Association of Software and Services Companies 
+(NASSCOM), and the company participates as panelist, assessor, or speaker in their training and capacity building workshops on climate change with the perspective of spreading know-how on ESG, climate change mitigation and adaptation strategies among other industries.  
+Remuneration:  Refer page number 103 for information on remuneration of the Board members.
+Apart from the SRC, TCS also has the Risk Management Committee (RMC) that is responsible for risk management oversight at the 
+corporate level.
+Risk Management Committee (RMC)•
+ The RMC is chaired b
+y an independent director and comprises of 5 members including one additional independent director, 2 
+executive directors, i.e. CEO, COO, and one company executive, CFO.  
+
+Page No: 323
+    Integrated Annual Report 2023-24323 Sustainability Disclosures
+Climate related  
+scenarioParameters, assumptions, analytical choices
+Transition scenarios IEA B2DSThe climate change scenario analysis conducted for TCS takes a multi-level approach to identify climate risk and opportunity hot spots, interdependencies, and interaction with global macro trends. The top-down analysis of the macro environmental trends that will impact the company at global level included,
+a)
+ natu
+re loss and ecological degradation, 
+b) resour
+ce scarcity and driving value chain innovation, 
+c) changing cus
+tomer and workforce preferences, 
+d) the rise of e
+xtreme weather, 
+e) increasing r
+egulations, pricing and disclosure of externalities, 
+f) digit
+alization and prevalence of infectious diseases and 
+g) rising inc
+omes.
+Detailed analysis was conducted of material climate change transition risks and opportunities across value chain 
+and assessment of interdependencies between climate risks and opportunities including identification of areas of potential magnification and hedge opportunities. The key value driver analysis assesses climate risks and opportunities across 3 stages of the value chain including a) Supply Chain (input supplies costs, disruption and access to supplies) b) Operations (carbon costs, operating costs, insurance/ damage costs due to disruption of operation) and c) End Markets (demand for low carbon services/ products, market share and competition). In the transition scenario, the IEA B2DS approach has been selected as its more conservative scenario. The inputs included those from Intergovernmental Panel for Climate Change (IPCC) reports, the Nationally Determined Contributions (NDCs), the Sustainable Development Goals (SDGs) and Government of India plan on energy efficiency and solar energy. The assumptions used in the analysis also considered the anticipated growth of TCS over the years and increased energy demand. Changing customer behaviour and carbon costs are assessed as a transition risk to TCS with a growing number of jurisdictions at regional and national level planning to implement a carbon tax or emission trading scheme.
+Physical  climate  scenarios RCP 8.5The climate change scenario analysis conducted for TCS takes a multi-level approach to identify climate risk and opportunity hot spots, interdependencies, and interaction with global macro trends. The top-down analysis of the macro environmental trends that will impact the company at global level included,
+a)
+ natu
+re loss and ecological degradation, 
+b) resour
+ce scarcity and driving value chain innovation, 
+c) changing cus
+tomer and workforce preferences, 
+d) the rise of e
+xtreme weather, 
+e) increasing r
+egulations, pricing, and disclosure of externalities, 
+f) digit
+alization and prevalence of infectious diseases and 
+g) rising inc
+omes
+Detailed analysis was conducted of material climate change physical risks and opportunities across value chain 
+and assessment of interdependencies between climate risks and opportunities including identification of areas of potential magnification and hedge opportunities. The key value drivers’ analysis assesses them across 3 stages of the value chain including a) Supply Chain (input supplies costs, disruption and access to supplies) b) Operations (carbon costs, operating costs, insurance/ damage costs due to disruption of operation) and c) End Markets (demand for low carbon services/ products, market share and competition) The physical risk is assessed using the RCP 8.5 scenario. The RCP 8.5 scenario takes a global warming between 3-4 degrees above pre-industrial levels which is a conservative scenario and helps TCS understand the worst-case climate impacts on its operations. The inputs included IPCC reports, the NDCs, the SDGs and Govt. of India plan on energy efficiency and solar energy. The assumptions used in the analysis also considered the anticipated growth of TCS over the years and increased energy demand. Few strategies to mitigate physical risks of climate change include:
+1)
+ A robus
+t Business Continuity Plan (BCP) to respond to climate events 
+2) Inv
+estments in climate resilient infrastructure (for cyclone, floods).
+Section 3: Risk management
+At TCS, the Corporate Risk Office, led by the Chief Risk Officer, is responsible for driving Enterprise Risk Management (ERM) across all functions in line with TCS Global Risk Management Policy. Refer the MD&A section on page numbers 78, for details on how ERM is driven across the company on all topics, including climate related risks and opportunities. The company also considers evolving concepts, trends, policies, customer requirements, regulations, and climate scenario analysis to identify Risk & Opportunities. The company also considers international guidelines/frameworks like GRI, SASB, and CDP for Risk & Opportunity drivers.
+Risk Assessment Methodology: Refer the MD&A section page number 79 of the TCS Integrated Annual Report for information on 
+Enterprise Risk Management process followed at TCS. 
+
+Page No: 325
+    1 Requirement 7: Publish a GRI Content Index
+* MD&A: Manag
+ement Discussion and Analysis, CG: Corporate Governance Report, BRSR: Business Responsibility and Sustainability ReportGRI Content Index1
+TCS’ Integrated Annual Report 2023-24, which includes the Board and Management Commentary, Compliance Reports, Financial 
+Statements, and the Business Responsibility and Sustainability Report, is with reference to the Global Reporting Initiative (GRI) Standard. The Report also conforms to the United Nations Global Compact (UNGC) principles and forms the basis of the company’s Communication on Progress (CoP) with the UNGC.
+The following table provides the mapping of disclosures for FY 2024 against the GRI standard requirements. 
+GRI Standard Disclosure and Description Section * Page No.
+GRI 2: General Disclosures 2021
+1. The org
+anization and its reporting practices
+ 2-1 Org
+anizational details • BR
+SR 127
+ 2-2 Entities i
+ncluded in the organization’s sustainability reporting • BR
+SR 128, 129
+ 2-3 Reportin
+g period, frequency and contact point • BR
+SR 127
+ 2-4 Res
+tatements of information • BR
+SR 127
+ 2-5 Ext
+ernal assurance • BR
+SR 128, 132
+2. Activities and w
+orkers
+ 2-6 Activities, v
+alue chain and other business relationships • BR
+SR 128
+ 2-7 Employ
+ees • BR
+SR 128
+ 2-8 Work
+ers who are not employees • BR
+SR 128
+3. Gov
+ernance
+ 2-9 Gov
+ernance structure and composition • CG
+• BR
+SR93, 94
+132
+ 2-10 Nomination and selection
+ of the highest governance body • CG 93, 94
+ 2-11 Chair of the highes
+t governance body • CG 94
+  2-12 Role of 
+the highest governance body in overseeing the management of 
+impacts• CG 94, 95
+ 2-13 Delega
+tion of responsibility for managing impacts • CG
+• BR
+SR102132
+ 2-14 Role of 
+the highest governance body in sustainability reporting • CG 95, 147
+ 2-15 Conflicts of in
+terest • CG 94
+ 2-16 Communica
+tion of Critical Concerns • BR
+SR 130, 138, 142, 147, 148, 162, 164
+ 2-17 Collective kno
+wledge of the highest governance body • BR
+SR 132
+ 2-18 Ev
+aluation of the performance of the highest governance body • Direct
+ors’ Report
+• CG5895
+ 2-19 Remune
+ration policies • C
+G 
+• BR
+SR102147
+ 2-20 Pr
+ocess to determine remuneration • CG 95, 100, 102
+ 2-21 Annual t
+otal compensation ratio • BR
+SR 147
+4. Stra
+tegy, policies and practices
+ 2-22 Sta
+tement on sustainable development strategy • Lett
+er from the CEO
+• MD&A
+• BR
+SR870132, 146
+ 2-23 Policy c
+ommitments • BR
+SR 131, 133, 148, 165
+ 2-24 Embedding policy c
+ommitments • BR
+SR 131, 148 
+Integrated Annual Report 2023-24325 Sustainability Disclosures 
+
+Page No: 150
+    Integrated Annual Report 2023-24150 Business Responsibility & Sustainability Report
+ Details of total energy consumption [(in Mega Joules (MJ)] and energy intensity are provided below:
+Parameter FY 2023-24 FY 2022-23# 
+From renewable sources
+Total electricity consumption (A) 1,26,61,08,110 83,03,88,643
+Total fuel consumption (B) NIL NIL
+Energy consumption through other sources (C) 1,80,187 1,54,994
+Total energy consumed from renewable sources (A+B+C) 1,26,62,88,297 83,05,43,637
+From non-renewable sourcesTotal electricity consumption (D) 37,58,00,721 60,24,10,331
+Total fuel consumption (E)
+726,70,93,957 7,20,62,111
+Energy consumption through other sources (F) NIL NIL
+Total energy consumed from non-renewable sources (D+E+F) 44,28,94,678 67,44,72,442
+Total energy consumed (A+B+C+D+E+F) 1,70,91,82,976 1,50,50,16,079
+Energy intensity per rupee of turnover 
+(Total energy consumed (MJ) / Revenue from operations)0.000710 0.000668
+Energy intensity per rupee turnover adjusted for Purchasing Power Parity (PPP)  
+(Total energy consumed (MJ) / Revenue from operations adjusted for PPP)*0.016234 0.015273
+Energy intensity in terms of physical output [(MJ)/ Full Time Employee (FTE)] 2,715.2 2,454.4
+ #Data excludes accounting for <2% headcount, where TCS does not have operational control.
+ *The re
+venue from operations has been adjusted for PPP based on the latest PPP conversion factor published for the year 2022 
+by World Bank for India which is 22.88.
+ Note: Indic
+ate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+ Yes. Independen
+t assurance has been carried out by KPMG.
+2. Does the entity ha
+ve any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve and 
+Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme have been achieved. In case targets have not been achieved, provide the remedial action taken, if any.
+ NA
+3. Pro
+vide details of the following disclosures related to water73, in the following format:
+ The sources of fr
+eshwater at TCS include third party water (88.5%), groundwater (8.7%) and rainwater harvested (2.8%). TCS 
+optimizes water consumption through conservation, sewage treatment and reuse, and utilization of harvested rainwater. All newer campuses have been designed for higher water efficiencies, treatment and recycling of sewage, and rainwater harvesting. The detailed break up is given below:
+Parameter FY 2023-24 FY 2022-23# 
+Water withdrawal by source [in kilolitres (KL)]
+(i) Surface w
+ater NIL NIL
+(ii) Groundw
+ater 2,56,802 1,73,539
+(iii) Third party w
+ater 26,06,339 20,58,419
+(iv) Seaw
+ater / desalinated water NIL NIL
+(v) Other
+s – Rainwater utilized 83,437 56,730
+Total volume of water withdrawal (i + ii + iii + iv + v) 29,46,578 22,88,688
+Total volume of water consumption (KL) 24,67,342 20,82,781
+Water intensity Per Rupee of turnover  
+(Total water consumption (KL) / Revenue from operations)0.000001 0.000001
+Water intensity Per Rupee of turnover adjusted for Purchasing Power Parity (PPP)  (Total water consumption (KL) / Revenue from operations adjusted for PPP)0.000023 0.000021
+Water intensity in terms of physical output  (Water Consumed in KL/FTE) 3.9 3.4
+ #Data excludes accounting for <2% headcount, where TCS does not have operational control.
+73 GRI 303-3, GRI 303-5 
+
+Page No: 321
+    Integrated Annual Report 2023-24321 Sustainability Disclosures
+ Area Description of in fluence
+Supply chain and/
+or value chainSupply Chain sustainability through responsible sourcing is one of the risk mitigations that TCS has identified under its sustainability risk. TCS’s Green Procurement policy outlines its commitment to making its supply chain more responsible and sustainable. Energy efficiency is one of the major procurement considerations in all the company’s IT assets procurement as this is directly correlated with its emission profile. Climate related risks play a very important role in supply chain engagements, and TCS is working with its suppliers to bring in improvements in overall supply chain sustainability related aspects. As mentioned in the previous section on suppliers, TCS has launched the supplier sustainability assessment platform to facilitate improvements in the supply chain through evaluation and assessment of suppliers.
+Investment in R&I TCS’ investments in R&I have resulted in solutions like Envirozone™, Clever Energy and IP2™. TCS has been using Clever Energy for the last several years to monitor and help reduce its energy consumption and is now commercially selling it and the other two solutions to clients to help them achieve their sustainability goals. Additionally, TCS has been investing in building green campuses (IGBC certified). These initiatives have enabled reduction of carbon footprint
+Operations Climate Change risks play an important consideration in TCS’ operations. TCS has created an environmentally sustainable approach by creating green policies, processes, frameworks, and infrastructure. The company’s campuses are designed to withstand extreme weather events and the business continuity plans are tested periodically to ensure continued operations without any disruption. Green buildings, efficient operations, green IT, the use of renewable energy to reduce carbon footprint; adoption of newer technologies and methods to manage waste in line with circular economy principles are integral to business operations. These all help the company in achieving its emission reduction targets and journey towards Net Zero by 2030.
+Direct costs, Capital expenditures, Capital allocation assetsClimate risks and opportunities are one of the factors while making financial considerations especially while making investments in offices, equipment, and renewable energy production. Investment in these areas constitutes a substantial share of the company’s overall capital investment. Major investments are in green buildings, roof top solar and other energy efficiency initiatives. Refer BRSR section, Principle 6, page number 152, 153 for more details on the initiatives that also help the company to position itself as leaders in the climate domain hence contribute substantially to its market value.
+Financial position, financial performance, and cash flows
+Substantive financial or strategic impact of Risk Assessment: Climate risks like business disruption, changing regulatory landscape, acute physical stress and transition risks are identified, prioritized, 
+assessed and managed by the ERM team. Anything with the potential to disrupt regular operations by more than 10% and triggers Business Continuity Plans at the sites is considered as substantial. The financial risk exposure is calculated considering the following quantifiable indicators - (1) Proportion of business units affected OR percentage of operations impacted; (2) Probability of occurrence of extreme climate related events, and 3) the impact potential at the affected locations based on size of operation. In any given year the overall potential financial impact due to an extreme weather event is considered as 0.75% of the revenue. TCS considers a risk tolerance of 10% of the exposure for climate related risks and considered as substantive. Based on the severity and the risk exposure, the appropriate risk response is finalized, and mitigation actions are assigned to relevant functions.
+The company has identified the following climate-related risks with the potential to have a substantive financial or strategic impact on the 
+company’s business:
+a.
+ Risk of impact on direct oper
+ations:  TCS has large operations based out of offices in coastal cities which have a high exposure to 
+extreme weather events like high rainfall, cyclones, rise in sea level, etc. During FY 2024, there were no major cyclones that effected 
+the company’s campuses. However, earlier event like Cyclone Amphan led to damages in its Kolkata, India campus specifically to the rooftop solar PV installations, solar water heater panels, roof mounted HVAC components, HRW electrical panel room, energy bin of biogas chamber, apart from multiple water leakages at basement and many other external physical damages. This indicates the increased severity and frequency of extreme weather events such as cyclones and floods and the impact these can cause directly on the operations. TCS accounts for such risks at design stage through cyclone and flood water resistance considerations while constructing new buildings. For greenfield projects, the building structure is designed (a) for seismic load as per IS 1893 (Part-1) 2016; Amendment No:2-2020 and (b) for wind speeds as per IS 875 codes. 
+ TCS has a s
+trong business continuity plan (critical business operations can be shifted to another city/country/geography) and 
+therefore these physical risks will not affect the business operations significantly, except for the financial implications related to infrastructure damages (if any). Hence the potential financial impact due to physical damage because of extreme weather events is calculated as a percentage of revenue using a risk factor, which in turn is arrived through the company’s risk assessment exercises. The potential financial impact will be 0.75% of the revenue which comes to approximately ₹ 1,807 crores or US$218 million.
+b.
+ Risk of increase in c
+apital expenditure: TCS is an IT services, consulting, and business solutions organization with a presence across 
+multiple geographies, industries, services and products. Being one of the frontrunners in ESG performance, in 2021, the company has taken up ambitious carbon targets as mentioned in previous sections and have also achieved its near-term targets 2 years ahead  
+
+Page No: 320
+    Integrated Annual Report 2023-24320 Sustainability Disclosures
+Climate related 
+R&OTCS Approach
+Chronic physical Despite the Paris Agreement and global climate action, global warming continues unabated. Having presence in many major cities across the world, TCS is subject to climate change related chronic physical impacts like change in precipitation pattern, with resultant effects like drought or flood. Also, with TCS’s presence in few coastal cities, rise in sea level and related impacts like land submergence, saltwater intrusion, disruption to network and communication systems are more likely. These risks are long term and included from perspective of planning appropriate infrastructure. TCS has set targets to reduce carbon emissions (scope 1 and 2) by 70% in 2025 compared to 2016 base year and achieve Net Zero by 2030. These are aligned with the global goals taken under the Paris agreement to fight global warming by keeping the planet’s temperature below 1.5 degrees Celsius. TCS has reduced its absolute carbon footprint across Scope 1 and Scope 2 by 80% in FY 2024 over a baseline of 2016, exceeding TCS’ target achievement by 10%, one year ahead of time.
+Business model and value chain
+TCS’ business model and value chain includes its customers and suppliers. The sustainability and climate related transition risks are 
+covered here along with some mitigation plans.
+Customers: TCS is an IT services and business solution provider company working mostly with Fortune 1000 or Global 2000 corporations 
+and the public sector. The customer perception around climate change risks has strengthened, especially in the major markets, and this is reflected in the increasing customer requests on climate change performance through platforms like CDP , SBTi commitment, RFPs. These all show how adapting to changing customer behaviour around climate change is crucial for business continuity.
+TCS’ stakeholders, especially its customers and employees look at it as a responsible corporate citizen when it comes to climate action. 
+The company’s efforts in this domain have been recognized through ESG ratings and CDP ratings / climate change performance (carbon reduction against targets, % renewable energy). In an event, if TCS is unable to meet its climate change commitments, it can lead to a negative impact on its brand and reputation, as well as ESG ratings. A failure to meet the targets, customer expectations or evolving regulatory requirements could also potentially affect its market capitalization. TCS ensures that these risks are identified at an early stage and work on mitigation and improvement plans. 
+The company also has a robust business continuity plan. It is an end-to-end framework that effectively manages through defined policy, 
+procedures, guidelines and through in-house developed tools that support planning and communication with all stakeholders. The framework is fully compliant and certified to ISO 22301:2019, CMMI-SVC and is integrated with TCS quality management system for consistent deployment across the organization. TCS also has Emergency Preparedness Plans (EPP) for disasters such as earthquake, floods, cyclones etc in its internal portal. The plan outlays the responsibilities of action owners, plan description including precautions to be taken, evacuation procedures and post incident action plan which would need to be followed at locations facing the emergency scenario.
+Suppliers: Towards ongoing sustainability assessment, TCS launched its Supplier Sustainability Assessment Platform in FY 2023 and 
+initiated on-boarding of its top supply chain partners. Through this platform, TCS plans to support its suppliers with engagement and guidance to help them improve their sustainability performance. In FY 2024, the company has successfully assessed 17% of its value chain partners (by spend) for sustainability criteria. These efforts ensure that all suppliers who form upstream part of the value chain are assessed for sustainability and climate risks. 
+Strategy and decision-makingClimate-related risks and opportunities have influenced TCS’ strategy in the following ways:
+ Area Description of in fluence
+Products and 
+servicesAs TCS’ customers respond to climate change actions, the company is seeing opportunities to provide technology-led solutions to help them achieve their sustainability goals. The change in technology consumption reflects the prevailing trends in the economy. Recent events have accelerated digital adoption, put the spotlight on supply chain resilience and added urgency to the sustainability imperative. Each of these represents an opportunity that can contribute towards the growth of not just as one company, but of the ecosystem. TCS leveraged its deep expertise in IoT, advanced analytics, and machine learning to come up with a suite of offerings in this space, including intellectual property such as Clever Energy™, IP2™, and TCS Envirozone™. Clients across industries are engaging us to develop innovative technology led solutions to reduce energy consumption, or to measure and track green-house gas emissions across their end-to-end supply chain, reduce their carbon footprint, reduce waste and promote recycling. 
+
+Page No: 24
+     
+Natural Capital
+Energy Management and GHG Emissions Reduction
+Outcomes
+AchievementsTarget: 
+70% reduction of Scope 1 + 2 emissions by 2025 (vs base year 2016) and Net Zero by 2030
+Initiatives for reduction of Scope 1 and Scope 2 
+emissions:
+• Energy Efficiency and Optimization 
+ ◦ New campuses designed as per green building standard and innovative technology used.
+ ◦ Optimize operational energy efficiency with real-time monitoring and controls.
+ ◦ Upgrade legacy equipment/utilities 
+• Green IT
+ ◦ Procurement of energy efficient IT equipment.
+ ◦ Data center and distributed IT power management. 
+• Greater use of Renewable Energy
+ ◦ Maximize roof top solar capacities and RE procurement.
+67.3%
+% total office space (for India) 
+as per Indian Green Building 
+Council standards.74%
+Renewable energy
+as % of total energy consumedWe have reduced our absolute carbon footprint across Scope 1 and Scope 2 by 80% in FY 2024 
+over a baseline of 2016, exceeding our target achievement by 10%, one year ahead of time
+1.7 PUE
+weighted average PUE at
+ TCS data centers10.2 MWp
+Rooftop solar generation 
+capacity across TCS campusesReduced
+Energy
+Consumption
+and…
+20%… reduced TCS’Carbon footprint.
+80% 25%…Increased
+Use of
+Renewable
+Energy..
+19x
+Total Energy
+Consumed
+in GWhTotal Scope
+1 + 2
+emissions in 
+‘000 tCO2eValue chain 
+emissions 
+in '000 tCO2eRenewable
+Energy 
+Consumed 
+in GWhFY
+2016FY
+2024FY
+2016FY
+2024FY
+2016FY
+2024FY
+2016FY
+2024592
+475
+18.6
+352
+96
+668471
+499TCS combines its strong sense of purpose with digital expertise 
+and innovation to drive not only its own sustainability journey, but also that of its customers, business partners and stakeholders.The company’s environmental stewardship rests on four pillars: carbon footprint mitigation, water conservation and recycling, waste reduction and recycling, and preserving biodiversity.Initiatives for reduction of Scope 3 emissions:
+• Employee Commute: 
+ ◦ Transition to transport fleet of cabs and buses with EV.
+ ◦ EV charging facility for private vehicles of employees. 
+ ◦ Employee engagement for use of public transport.
+• Business Travel: 
+ ◦ Reduce business travel through use of collaborative tools and technology.
+ ◦ Use of flights having sustainable aviation fuel (SAF) or other options, as and when these are commercially available.Natural Capital  
+24
+Integrated Annual Report 2023-24 
+
+Page No: 172
+    Integrated Annual Report 2023-24172 Business Responsibility & Sustainability Report
+ 
+ 
+ 
+6 | Page  
+ Appendix – 1 
+BRSR Core attributes  
+BRSR Indicator  Type of Assurance  
+P6 E1 - Details of total energy consumption (in Joules or multiples)  Reasonable 
+P6 E1 - Details of total energy intensity  Reasonable  
+P6 E3 - Provide details of water withdrawal by source  Reasonable  
+P6 E4 - Provide details of water discharged  Reasonable  
+P6 E3 - Provide details of water consumption  Reasonable  
+P6 E7 - Provide details of greenhouse gas emissions (Scope 1) Reasonable  
+P6 E7 - Provide details of greenhouse gas emissions (Scope 2)  Reasonable  
+P6 E7 -  Provide details of greenhouse gas emissions (Scope 1 and Scope 2) intensity Reasonable  
+P6 E9 - Provide details related to waste generated by category of waste Reasonable  
+P6 E9 - Provide details related to waste recovered through recycling, re -using or 
+other recovery operations  Reasonable  
+P6 E9 - Provide details related to waste disposed by nature of disposal method  Reasonable  
+P3 E11- Details of safety related incidents including lost time injury frequency rate, 
+recordable work -related injuries, no. of fatalities  Reasonable  
+P9 E7 - Instances involving loss/breach of data of customers as a percentage of total 
+data breaches or cyber security events  Reasonable  
+P5 E7 - Complaints filed under the Sexual Harassment of Women at Workplace 
+(Prevention, Prohibition and Redressal) Act, 2013, i ncluding complaints reported, 
+complaints as a % of female employees, and complaints upheld  Reasonable  
+P1 E9 -Concentration of purchases & sales done with trading houses, dealers, and 
+related parties Loans and advances & investments with related parties  Reasonable  
+P1 E8 - Number of days of accounts payable  Reasonable  
+P8 E5 - Job creation in smaller towns  Reasonable  
+P3 E1c - Spending on measures towards well -being of employees and workers – cost 
+incurred as a % of total revenue of the company  Reasonable  
+P5 E3b- Gross wages paid to females as % of wages paid  Reasonable  
+P8 E4 - Input material sourced from following sources as % of total purchases – 
+Directly sourced from MSMEs/ small producers and from within India  Reasonable 
+  
+
